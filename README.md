@@ -7,6 +7,7 @@ Use it online at http://grpatter.github.io/buff-cap.
 
 Buff Cap Calculator is released under the CC-BY-NC-SA License. [Click for more info.](LICENSE.md)
 
+#  
 
 FORKED FROM: https://github.com/querns/buff-cap
 
